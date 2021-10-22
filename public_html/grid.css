@@ -195,14 +195,8 @@ a:hover {
     width: 400px;
     line-height: 1.7;
 }
-
 .h-220 {
     height: 220px;
-}
-
-
-.ml-15 {
-    margin-left: 15px;
 }
 
 .mt-mb-30 {
@@ -228,9 +222,7 @@ a:hover {
 
 
 
-.dark-background {
-    background-color: #303646;
-}
+
 
 .pt-pb-55 {
     padding-top: 55px;
